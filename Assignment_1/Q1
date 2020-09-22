@@ -1,1 +1,35 @@
-
+<DOCTYPE html>
+  <html>
+    <head>
+      <title>CARS</title>
+    </head></br>
+    <body>
+      <table style border="3" bgcolor="orange">
+        <tr>
+          <th colspan="3"></br
+          <h1>Name:-Nisha Verma</h1></br><h3>Roll no:-1906128</h3></th>
+        </tr>
+        <tr>
+          <th width="40%">CARS</th>
+          <th width="30%">Description</th>
+          <th width="30%">Website</th>
+        </tr>
+        <tr align="centre">
+          <td><img src="McLarren720S.jpg"alt="McLarren 720S" width="100%" height="100%" style="vertical-align:bottom"></td>
+          <td>720S embodies our relentless quest to push the limits of possibility.</td>
+          <td><a href= "https://cars.mclaren.com/us-en/super-series/720s"> Get details here.</a></td>
+        </tr>
+        <tr align="centre">
+          <td><img src="Ferrari.jpg"alt="Ferrari"width="100%" height="100%" style="vertical-align:bottom"></td>
+          <td>TheAccording to British car magazine Autocar, the 458 Italia's design.</td>
+          <td><a href="https://en.m.wikipedia.org/wiki/Ferrari_458">Get details here.</a></td>
+        </tr>
+        <tr align="centre">
+          <td><img src="Lamborghini.jpg"alt="Lamborghini" width="100%" height="100%" style="vertical-align:bottom"></td>
+          <td>TheThe 1992 Larrousse–Lamborghini was largely uncompetitive but noteworthy.</td>
+          <td><a href=https://en.m.wikipedia.org/wiki/Lamborghini>Get datails here.</a></td>
+        </tr>
+      </table>
+    </body>
+  </html>
+</DOCTYPE html>
