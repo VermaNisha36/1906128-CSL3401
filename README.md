@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>My Github Account</title>
 </head>
 <body>
 <h1>My Github Account</h1>
