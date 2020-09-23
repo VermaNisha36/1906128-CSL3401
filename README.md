@@ -5,9 +5,9 @@
 <fieldset style="background-color:#92c9c4ff;">
 <h1 style="text-align:center;color:red;font-family:cursive;">My Github Account</h1>
 <h2 style="text-align:center;color:blue;font-family:cursive;">Welcome to my Github Pages</h2>
-<p style="text-align:center;">Nisha Verma<br>1906128<br>nishav.ug19.cs@nitp.ac.in</p>
-<p style="text-align:center;">I am sophomore at Nit Patna from CSE branch</p>
-<marquee syle="background-color:#7f96d4ff;">Thank You...</marquee>
+<p style="text-align:center;color:#7f96d4ff;">Nisha Verma<br>1906128<br>nishav.ug19.cs@nitp.ac.in</p>
+<p style="text-align:center;color:##7f96d4ff;">I am sophomore at Nit Patna from CSE branch</p>
+<marquee syle="color:#7f96d4ff;">Thank You...</marquee>
 </fieldset>
 </body>
 </html>
