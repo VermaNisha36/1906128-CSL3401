@@ -4,7 +4,7 @@ body,html {
   background-image:url('https://images.assetsdelivery.com/compings_v2/krishnasomya/krishnasomya1312/krishnasomya131200009.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  border: 1px solid black;
+  border: 2px solid black;
 }
 h1,h2,h3
 {
@@ -12,7 +12,7 @@ h1,h2,h3
   font-size: 25px;
   font-family: cursive;
   display: block;
-  color: #0044cc;
+  color:#150d6f;
 }
 button
 {
